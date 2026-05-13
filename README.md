@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vinícius Marcarini
+# Vinícius Antonio Marcarini
 
 **Senior Back-end Developer · .NET | C# | Microservices**
 
