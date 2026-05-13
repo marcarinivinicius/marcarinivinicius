@@ -76,14 +76,6 @@ My background spans fintech, logistics, food industry, and enterprise software �
 - 🐳 Docker Essencial para o Desenvolvedor
 - 🛡️ Certificado de Qualificação Profissional em Gestão de Segurança da Informação
 
----
-
-## GitHub Stats
- 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=marcarinivinicius&theme=default&hide_border=true" height="160" />
-</div>
-
 
 ---
 
