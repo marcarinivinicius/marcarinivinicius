@@ -79,14 +79,11 @@ My background spans fintech, logistics, food industry, and enterprise software ‚
 ---
 
 ## GitHub Stats
-
+ 
 <div align="center">
-
-![Vin√≠cius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcarinivinicius&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcarinivinicius&layout=compact&theme=default&hide_border=true)
-
+  <img src="https://streak-stats.demolab.com/?user=marcarinivinicius&theme=default&hide_border=true" height="160" />
 </div>
+
 
 ---
 
